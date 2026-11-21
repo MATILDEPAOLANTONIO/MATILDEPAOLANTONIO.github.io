@@ -8,7 +8,7 @@ Passionate about strategic communication, branding, and digital innovation, I co
 
 ---
 
-### 🎓 Education
+### Education
 
 * **Master's Degree in Public and Corporate Communication (MA COM)** — *In progress*  
   University of Milan (Faculty of Political, Economic and Social Sciences)
@@ -17,7 +17,7 @@ Passionate about strategic communication, branding, and digital innovation, I co
 
 ---
 
-### 💡 Areas of Interest
+### Areas of Interest
 
 * **Corporate & Internal Communication**
 * **Strategic Communication & Brand Management**
@@ -27,7 +27,7 @@ Passionate about strategic communication, branding, and digital innovation, I co
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 | Skills | Tools |
 | :--- | :--- |
@@ -43,14 +43,14 @@ Passionate about strategic communication, branding, and digital innovation, I co
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 * **[MA COM Landing Page - UniMi](https://github.com/ale66/learn-web-playground-2026-27/tree/main/essays/matildepaolantonio)**  
   A responsive website built for the Web Design course, featuring a fluid layout, news section, interactive Picture-in-Picture map, and dynamic JavaScript components.
 
 ---
 
-### 📫 Where to find me
+### Where to find me
 
 * **LinkedIn:** [Matilde Paolantonio](https://www.linkedin.com/in/matilde-paolantonio-74b21843b/)
 * **GitHub:** [@matildepaolantonio](https://github.com/matildepaolantonio)
