@@ -2,9 +2,7 @@
 
 # Hi! I'm Matilde Paolantonio 👋
 
-I hold a Bachelor's degree with **110/110 cum Laude in Humanities for Communication** from the **University of Milan (UniMi)**, where I am currently pursuing a Master's degree in **Public and Corporate Communication (MA COM)** (2026/2027).
-
-Passionate about strategic communication, branding, and digital innovation, I combine a strong humanities background with analytical and creative skills, while expanding my front-end web development capabilities (HTML5, CSS3, and JavaScript).
+Communication graduate with a 110/110 cum laude, currently pursuing a Master’s Degree in Corporate Communication at the University of Milan. I have developed an interdisciplinary background in communication, marketing and economics, with a strong interest in brand strategy, strategic communication and marketing. Through academic and editorial experiences, I have developed strong writing, research and communication skills, together with a keen eye for content and storytelling. I am now looking to bring this combination of analytical and creative skills into a professional environment where I can contribute, learn and grow.
 
 ---
 
