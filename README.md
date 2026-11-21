@@ -9,7 +9,7 @@ Communication graduate with a 110/110 cum laude, currently pursuing a Master’s
 ### Education
 
 * **Master's Degree in Public and Corporate Communication (MA COM)** — *In progress*  
-  University of Milan (Faculty of Political, Economic and Social Sciences)
+  University of Milan 
 * **Bachelor's Degree in Humanities for Communication** — **110/110 cum Laude**  
   University of Milan
 
