@@ -43,7 +43,7 @@ Communication graduate with a 110/110 cum laude, currently pursuing a Master’s
 
 ### Featured Projects
 
-* **[MA COM Landing Page - UniMi]**(file:///Users/mati/Library/Mobile%20Documents/com~apple~CloudDocs/UNIMI🎓/%20MAGISTRALE🦦🦭/WEB%20COMMUNICATION/git/learn-web/learn-web-playground-2026-27/essays/matildepaolantonio/index.html)**  
+* **[MA COM Landing Page - UniMi](file:///Users/mati/Library/Mobile%20Documents/com~apple~CloudDocs/UNIMI🎓/%20MAGISTRALE🦦🦭/WEB%20COMMUNICATION/git/learn-web/learn-web-playground-2026-27/essays/matildepaolantonio/index.html)**  
   A responsive website built for the Web Design course, featuring a fluid layout, news section, interactive Picture-in-Picture map, and dynamic JavaScript components.
 
 ---
