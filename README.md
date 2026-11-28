@@ -81,4 +81,4 @@ With an interdisciplinary background spanning communication, marketing, and econ
 * **Certifications:**  
   * **LVMH Certificate** *(INSIDE LVMH)*  
   * **English Language Certification (C1)** — SLAM, University of Milan  
-  * **Spanish Language Certification (B1)** — SLAM, University of Milan[cite: 2, 3, 4]
+  * **Spanish Language Certification (B1)** — SLAM, University of Milan
